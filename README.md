@@ -35,8 +35,6 @@ docker compose up -d
 
 2. Start backend
 
-Start the backend
-
 cd backend
 
 npm install
